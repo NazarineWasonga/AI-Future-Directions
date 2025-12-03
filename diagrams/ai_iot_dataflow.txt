@@ -1,0 +1,8 @@
+SMART AGRICULTURE DATAFLOW
+
+[Soil Moisture Sensor]
+[Temperature Sensor]  -->  [Edge Gateway / Microcontroller] --> [AI Model]
+[Humidity Sensor]                                              |
+[Light Sensor]                                                 v
+[Camera / Crop Images]                                   [Crop Yield Prediction]
+                                                          [Irrigation Alerts]
