@@ -1,0 +1,6 @@
+EDGE AI WORKFLOW
+
+[Sensors / Input Data] --> [Edge Device Processing / CNN Model] --> [Prediction / Action]
+        |                                      |
+        v                                      v
+     Local Storage / Cache                  Dashboard / Actuator
